@@ -1,0 +1,28 @@
+/* CSS */
+/* CSS or "Cascading Style Sheets" are how we can customize the style of our HTML elements. */
+/* The basic idea is to first select the item or items you want to modify, and then apply properties to them to change their style */
+/* 
+
+Example using psuedocode (fake code):
+
+htmlElementSelector {
+    property1: value1;
+    property2: value2;
+    property3: value3;
+}
+*/
+
+/* Example using real code: */
+
+div {
+  background-color: red;
+  border-radius: 4px;
+  color: black;
+}
+
+/* CSS SELECTORS */
+/* The 3 main ones are as follows */
+/* html element selector (just type in the name of the element */
+p {
+  color: orange;
+}
