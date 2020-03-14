@@ -10,9 +10,9 @@ htmlElementSelector {
     property2: value2;
     property3: value3;
 }
-*/
 
-/* Example using real code: */
+Example using real code: 
+*/
 
 div {
   background-color: red;
@@ -20,9 +20,26 @@ div {
   color: black;
 }
 
-/* CSS SELECTORS */
-/* The 3 main ones are as follows */
-/* html element selector (just type in the name of the element */
+/* 
+
+CSS SELECTORS 
+ The 3 main ones are as follows:
+ 
+ 1. Element Selector (just type in the name of the element */
 p {
   color: orange;
 }
+/* 2. Class Selector (use a . before the class name) */
+.cool-div {
+  background-color: cornflowerblue;
+}
+
+/* 3. ID Selector (use a # before the id name)  */
+#submit-button {
+  padding: 5px;
+}
+
+/*
+CHAINING SELECTORS
+It is often useful to be more specific with what you are selecting.
+*/
