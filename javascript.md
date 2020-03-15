@@ -139,7 +139,7 @@ You can declare functions in several ways:
 
 1. Named Functions
    1. Used for when you'll need to call the function again somewhere else
-   2. Created using the keyword `function`, then a parenthesis pair `()`, then a curly brace pair `{}`
+   2. Created using the keyword `function`, then the name you want to give it, then a parenthesis pair `()`, then a curly brace pair `{}`
    3. Parameters go in the `()`, code you want to execute goes in the `{}`
    4. Code isn't immediately executed, instead you have to "call" the function, using the name and `()` with any parameters inside
 
